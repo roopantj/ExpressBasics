@@ -1,0 +1,19 @@
+.headerContainer {
+  height: 3.5rem;
+  padding: 0;
+  margin: 0;
+  background-color: aqua;
+}
+.headerContainer__nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.headerContainer__nav_list {
+  display: flex;
+  list-style: none;
+}
+.headerContainer__nav_list li {
+  text-decoration: none;
+  color: white;
+}
